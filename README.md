@@ -28,11 +28,13 @@ Add line at bottom of .js:
 module.export = TypeScript;
 ```
 ###.d.ts
-Add line at bottom on .d.ts: 
+Add header needed to a valid DT definition: 
+
 ```typescript
-declare module 'typescript-services' {
-    export = TypeScript;
-}
+// Type definitions for TypeScript-Services
+// Project: https://www.npmjs.org/package/typescript-services
+// Definitions by: Basarat Ali Syed <http://github.com/basarat>
+// Definitions: https://github.com/borisyankov/DefinitelyTyped
 ```
 Cleanup the following lines from `.d.ts` as these should come from `node.d.ts`. 
 ```typescript
@@ -61,5 +63,11 @@ declare var Buffer: new(str: string, encoding?: string) => any;
 ```
 ```typescript
 declare var global: any;
+```
+Add line at bottom on .d.ts: 
+```typescript
+declare module 'typescript-services' {
+    export = TypeScript;
+}
 ```
 All set!
