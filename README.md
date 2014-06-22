@@ -1,5 +1,9 @@
 typescript-services
 ===================
+[![NPM version][]](http://badge.fury.io/js/typescript-services)
+[![Views][]](https://sourcegraph.com/github.com/basarat/typescript-services)
+
+[![NPM][]](https://nodei.co/npm/typescript-services/)
 
 Open up TypeScript services for nodejs consumption
 
