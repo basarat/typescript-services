@@ -1,0 +1,26 @@
+{
+  "name": "typecript-services",
+  "version": "0.0.0",
+  "description": "Open up TypeScript language services for nodejs consumption",
+  "main": "typescriptServices.js",
+  "scripts": {
+    "test": "build.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basarat/typescript-services.git"
+  },
+  "keywords": [
+    "typescript",
+    "api",
+    "compiler",
+    "language",
+    "microsoft"
+  ],
+  "author": "basarat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basarat/typescript-services/issues"
+  },
+  "homepage": "https://github.com/basarat/typescript-services"
+}
