@@ -25,7 +25,7 @@ typescriptServices.js
 ###.js
 Add line at bottom of .js:
 ```typescript
-module.export = TypeScript;
+module.exports = TypeScript;
 ```
 ###.d.ts
 Add header needed to a valid DT definition: 

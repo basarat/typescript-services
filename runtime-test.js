@@ -1,6 +1,5 @@
 /// <reference path="./typescriptServices.d.ts"/>
-
-import ts = require('typescript-services');
+var ts = require('./typescriptServices');
 
 // formatter:
 var snapshot = ts.SimpleText.fromString('var foo = 123;');

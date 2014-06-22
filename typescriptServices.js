@@ -69656,4 +69656,4 @@ var TypeScript;
     var Services = TypeScript.Services;
 })(TypeScript || (TypeScript = {}));
 
-module.export = TypeScript;
+module.exports = TypeScript;
