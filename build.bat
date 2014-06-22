@@ -1,0 +1,1 @@
+tsc typescriptServices-tests.ts --module commonjs
