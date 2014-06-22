@@ -1,6 +1,6 @@
 {
   "name": "typescript-services",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Open up TypeScript language services for nodejs consumption",
   "main": "typescriptServices.js",
   "repository": {
