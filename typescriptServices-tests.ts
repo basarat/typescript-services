@@ -1,5 +1,4 @@
 /// <reference path="./typescriptServices.d.ts"/>
-
 import ts = require('typescript-services');
 
 // formatter:
