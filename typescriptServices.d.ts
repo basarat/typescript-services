@@ -9330,3 +9330,7 @@ declare module TypeScript.Services {
         private static getMatchingOpenBraceTokenKind(positionedElement);
     }
 }
+
+declare module 'typescript-services' {
+    export = TypeScript;
+}

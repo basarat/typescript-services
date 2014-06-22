@@ -20,9 +20,16 @@ typescriptServices.d.ts
 typescriptServices.js
 ```
 
-Next run wrapper
+## unwrap
+Add line at bottom of .js:
+```typescript
+module.export = TypeScript;
 ```
-node wrapper.js
+Add line at bottom on .d.ts: 
+```typescript
+declare module 'typescript-services' {
+    export = TypeScript;
+}
 ```
 
 All set!
