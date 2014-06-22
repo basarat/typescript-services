@@ -5,7 +5,7 @@ typescript-services
 
 [![NPM](https://nodei.co/npm/typescript-services.png?downloads=true)](https://nodei.co/npm/typescript-services/)
 
-Open up TypeScript services for nodejs consumption
+Open up TypeScript Language Services for nodejs consumption
 
 # Usage
 ```typescript
