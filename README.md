@@ -25,6 +25,10 @@ git clone https://github.com/Microsoft/TypeScript.git
 cd TypeScript
 git checkout release-1.3
 npm install
+```
+You need to update the Jakefile to generate a declration file i.e. `var generateDeclarations = true;` in `Jakefile`. Then: 
+
+```bash
 node_modules/.bin/jake local
 cd built/local
 ls
