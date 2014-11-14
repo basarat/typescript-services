@@ -20,11 +20,11 @@ console.log(formatter);
 ```
 # Contributing
 ## Getting the language service
-Opening up the TypeScript compiler : http://www.slideshare.net/nnzz2475/typescript-35845723 
 ```bash
-git glone https://git01.codeplex.com/typescript TypeScript
+git clone https://github.com/Microsoft/TypeScript.git
 cd TypeScript
-npm install 
+git checkout release-1.3
+npm install
 node_modules/.bin/jake local
 cd built/local
 ls
