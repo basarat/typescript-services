@@ -7,6 +7,9 @@ typescript-services
 
 Open up TypeScript Language Services for nodejs consumption
 
+# Update : No longer needed 
+See https://github.com/Microsoft/TypeScript/issues/372#issuecomment-66843523 
+
 # Usage
 ```typescript
 /// <reference path="./typescriptServices.d.ts"/>
