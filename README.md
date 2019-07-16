@@ -3,7 +3,7 @@ typescript-services
 [![NPM version](https://badge.fury.io/js/typescript-services.svg)](http://badge.fury.io/js/typescript-services)
 [![Views](https://sourcegraph.com/api/repos/github.com/basarat/typescript-services/counters/views.png)](https://sourcegraph.com/github.com/basarat/typescript-services)
 
-[![NPM](https://nodei.co/npm/typescript-services.png?downloads=true)](https://nodei.co/npm/typescript-services/)
+[![NPM](https://nodei.co/npm/typescript-services.png?downloads=true)](https://nodei.co/npm/typescript-services/) [![Greenkeeper badge](https://badges.greenkeeper.io/basarat/typescript-services.svg)](https://greenkeeper.io/)
 
 Open up TypeScript Language Services for nodejs consumption
 
