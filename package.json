@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/basarat/typescript-services",
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-ts": "^1.11.2"
+    "grunt": "^1.0.4",
+    "grunt-ts": "^5.5.1"
   }
 }
